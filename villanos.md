@@ -1,6 +1,7 @@
 # villanos 
 
-*Dr. Doom
-*Red Skull
-*Dr. Malito
-*Mojo jojo
+* Dr. Doom
+* Red Skull
+* Venon
+* Mojo jojo.
+* Capitan América
